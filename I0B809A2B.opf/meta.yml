@@ -1,0 +1,25 @@
+id: I0B809A2B
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:59:03.471054'
+last_modified: '2022-05-31T06:59:03.471060'
+parser: null
+source_metadata:
+  title: Rigdzin Nyima Drakpa
+  language: it
+  description: 'Texts by and about the treasure-revealer Rigdzin Nyima Drakpa (rig
+    ''dzin nyi ma grags pa, 1647–1710), alias Garwang Drodül Lingpa:'
+  volume:
+    fBCEA:
+      title: 'Marmé Mönlam: The Light Offering Prayer'
+      base_file: fBCEA.txt
+      order: 1
+      parent: Aspiration Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
